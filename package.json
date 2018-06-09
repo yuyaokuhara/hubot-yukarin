@@ -5,6 +5,7 @@
   "author": "okuhara",
   "description": "Bot of Yukari Tamura",
   "dependencies": {
+    "coffee-script": "^1.12.6",
     "hubot": "^3.0.1",
     "hubot-diagnostics": "0.0.2",
     "hubot-google-images": "^0.2.7",
